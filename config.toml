@@ -1,4 +1,4 @@
-baseurl = "https://example.org/"
+baseurl = "https://hugo.protitude.com/"
 languageCode = "en-us"
 title = "Protitude"
 # Define how many pages appear per site
